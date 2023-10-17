@@ -4,8 +4,6 @@ Bienvenue au Workshop EPITECH PyQT proposé par:
 
 Sacha Mazouz
 
-Julian Fremont
-
 Benjamin Koksas
 
 
