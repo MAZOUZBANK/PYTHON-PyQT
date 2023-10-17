@@ -40,9 +40,7 @@ Dans cette section, nous explorerons la gestion des événements pour rendre not
 ## Design de l'Interface Utilisateur (30 min)
 Apprenez à améliorer l'apparence de votre interface utilisateur.
 
-- Utilisation de feuilles de style CSS pour personnaliser l'apparence.
-- Ajout d'images et d'icônes.
-- Création d'une interface utilisateur attrayante.
+- Design de l'interface avec la classe QSS (Qt Style Sheets), on compte sur votre créativité pour pondre un beau design 🙂
 
 ## Widgets Avancés (45 min)
 Découvrez des widgets plus avancés pour enrichir votre application.
@@ -50,4 +48,7 @@ Découvrez des widgets plus avancés pour enrichir votre application.
 - Utilisation de tableaux et de listes.
 - Intégration de graphiques et de graphiques interactifs.
 - Widgets pour les entrées de données et la sélection.
+
+## Venez nous voirà la fin 😄
+
 
